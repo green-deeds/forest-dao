@@ -1,0 +1,6 @@
+.env
+node_modules
+wallet.dat*
+db.json
+nfts/nft_*
+.DS_Store
